@@ -1,5 +1,5 @@
 # DevNote
-A Note taking Application that runs on the Terminal!<br/>
+<h3>A Note taking Application that runs on the Terminal!</h3><br/>
 <p>
   <b>Functionality</b><br/>
   - add a note(title and body)<br/>
